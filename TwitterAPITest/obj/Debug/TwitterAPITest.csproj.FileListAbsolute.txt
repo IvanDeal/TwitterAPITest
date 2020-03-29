@@ -1,0 +1,14 @@
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\TwitterAPITest.exe.config
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\TwitterAPITest.exe
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\TwitterAPITest.pdb
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\TweetSharp.dll
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\bin\Debug\TweetSharp.pdb
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\obj\Debug\TwitterAPITest.csprojAssemblyReference.cache
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\obj\Debug\TwitterAPITest.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\obj\Debug\TwitterAPITest.csproj.CopyComplete
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\obj\Debug\TwitterAPITest.exe
+C:\Users\ivans\source\repos\TwitterAPITest\TwitterAPITest\obj\Debug\TwitterAPITest.pdb
